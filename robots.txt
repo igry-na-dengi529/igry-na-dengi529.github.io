@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://igry-na-dengi529.github.io/sitemap.xml
